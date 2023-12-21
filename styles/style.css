@@ -1,8 +1,6 @@
-body {
-    background-color: #fff;
-}
-
 .header {
+    max-width: 1100px;
+    margin: 0 auto;
     padding: 94px 24px 93px;
     display: grid;
     grid-template-columns: 2.5fr 1fr 2.5fr;
@@ -61,6 +59,8 @@ body {
 }
 
 .cover {
+    max-width: 1100px;
+    margin: 0 auto;
     position: relative;
     padding: 165px 24px 50px;
     background-image: url(../images/cover-pic.jpg);
@@ -146,6 +146,8 @@ body {
 }
 
 .lots {
+    max-width: 1100px;
+    margin: 0 auto;
     padding: 180px 24px 0;
 }
 
@@ -234,6 +236,8 @@ body {
 }
 
 .about {
+    max-width: 1100px;
+    margin: 0 auto;
     display: grid;
     grid-template-columns: 1fr 2fr;
     grid-template-rows: 1fr;
@@ -286,6 +290,8 @@ body {
 }
 
 .footer {
+    max-width: 1100px;
+    margin: 0 auto;
     padding: 180px 24px 90px;
     display: flex;
     flex-direction: row;
